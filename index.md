@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About SRobley
 ---
 
 I'm glad you stopped by; here's a look into what I'm all about.
@@ -15,3 +16,7 @@ I'm glad you stopped by; here's a look into what I'm all about.
 2. Automation
 3. Open-Source Tools
 4. My Bunny 🐰
+
+---
+
+### [View my latest projects and builds ->] (/projects)

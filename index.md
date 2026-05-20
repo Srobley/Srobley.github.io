@@ -19,4 +19,4 @@ I'm glad you stopped by; here's a look into what I'm all about.
 
 ---
 
-### [View my latest projects and builds ->](/projects)
+### [View my latest projects and builds ->] (/projects)

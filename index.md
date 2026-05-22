@@ -22,4 +22,4 @@ I'm glad you stopped by; here's a look into what I'm all about.
 
 ---
 
-### Check out what I've been building in the [Project Gallery](./projects)
+### [Project Gallery](./projects.md)  [My Certifications](./certifications.md)

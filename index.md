@@ -3,6 +3,10 @@ layout: default
 title: Bio
 ---
 
+### [Project Gallery](./projects.md)  [My Certifications](./certifications.md)
+
+---
+
 # About SRobley
 
 I'm glad you stopped by; here's a look into what I'm all about.
@@ -21,5 +25,3 @@ I'm glad you stopped by; here's a look into what I'm all about.
 4. My Bunny 🐰
 
 ---
-
-### [Project Gallery](./projects.md)  [My Certifications](./certifications.md)
